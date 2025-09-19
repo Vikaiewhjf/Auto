@@ -1,2 +1,0 @@
-# Auto
-Autotest on Python
